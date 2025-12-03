@@ -3,7 +3,7 @@
 # **5. Atividade Prática: Temas sugeridos**
 
 
-##**5.1 Sistema de Upload/Download de Arquivos**
+## **5.1 Sistema de Upload/Download de Arquivos**
 
 **Descrição:** Cliente pode fazer upload e download de arquivos em um servidor.
 
@@ -18,7 +18,7 @@
 
 *   Verificação de integridade (checksum MD5)
 
-##**5.2 Protocolo Personalizado - Jogo da Velha Online**
+## **5.2 Protocolo Personalizado - Jogo da Velha Online**
 
 **Descrição:** Dois clientes se conectam a um servidor para jogar jogo da velha.
 
@@ -33,7 +33,7 @@
 *   Detecção de vitória/empate
 
 
-##**5.3 Sistema de Mensagens com Persistência**
+## **5.3 Sistema de Mensagens com Persistência**
 
 **Descrição:** Sistema de mensagens estilo WhatsApp/Telegram básico.
 
